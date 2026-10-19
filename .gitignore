@@ -1,0 +1,15 @@
+# Raw EEG dataset
+data/
+
+# Large intermediate feature dataset
+eeg_features_dataset.csv
+
+# macOS system files
+.DS_Store
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
